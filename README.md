@@ -1,26 +1,11 @@
-# poo-java-desafio
+# Desafio POO em Java
 
-Projeto em Java desenvolvido para praticar os pilares da
-Programação Orientada a Objetos (POO):
+Projeto desenvolvido para praticar os principais pilares da
+Programação Orientada a Objetos:
 
 - Abstração
 - Encapsulamento
 - Herança
 - Polimorfismo
 
-## Estrutura do projeto
-
-- Conteudo (classe abstrata)
-- Curso (herda de Conteudo)
-- Mentoria (herda de Conteudo)
-- Dev (representa o aluno)
-- Main (classe de execução)
-
-## Tecnologias
-
-- Java
-- Programação Orientada a Objetos
-
-## Autor
-
-Miguel
+Implementado em Java.
